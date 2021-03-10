@@ -1,0 +1,40 @@
+q=input('Please enter first person\'s name: ')
+w=input('Please enter first person\'s surname: ')
+e=int(input('Please enter first person\'s age: '))
+r=input('Please enter first person\'s e-mail: ')
+t=input('Please enter first person\'s school: ')
+y=input('Please enter second person\'s name: ')
+u=input('Please enter second person\'s surname: ')
+I=int(input('Please enter second person\'s age: '))
+o=input('Please enter second person\'s e-mail: ')
+p=input('Please enter second person\'s school: ')
+a=input('Please enter third person\'s name: ')
+s=input('Please enter third person\'s surname: ')
+d=int(input('Please enter third person\'s age: '))
+f=input('Please enter third person\'s e-mail: ')
+g=input('Please enter third person\'s school: ')
+h=input('Please enter fourth person\'s name: ')
+j=input('Please enter fourth person\'s surname: ')
+k=int(input('Please enter fourth person\'s age: '))
+l=input('Please enter fourth person\'s e-mail: ')
+i=input('Please enter fourth person\'s school: ')
+z=input('Please enter fifth person\'s name: ')
+x=input('Please enter fifth person\'s surname: ')
+c=int(input('Please enter fifth person\'s age: '))
+v=input('Please enter fifth person\'s e-mail: ')
+b=input('Please enter fifth person\'s school: ')
+
+
+cv1 = {'Name':q, 'Surname':w, 'Age':e, 'E-mail':r, 'School':t}
+cv2 = {'Name':y, 'Surname':u, 'Age':I, 'E-mail':o, 'School':p}
+cv3 = {'Name':a, 'Surname':s, 'Age':d, 'E-mail':f, 'School':g}
+cv4 = {'Name':h, 'Surname':j, 'Age':k, 'E-mail':l, 'School':i}
+cv5 = {'Name':z, 'Surname':x, 'Age':c, 'E-mail':v, 'School':b}
+cv6 = {'Name':cv1['Name'], 'Surname':cv2['Surname'], 'Age':cv3['Age'], 'E-mail':cv4['E-mail'], 'School':cv5['School']}
+
+print('First person\'s CV:', cv1, sep='\n')
+print('Second person\'s CV:', cv2, sep='\n')
+print('Third person\'s CV:', cv3, sep='\n')
+print('Fourth person\'s CV:', cv4, sep='\n')
+print('Fifth person\'s CV:', cv5, sep='\n')
+print('Combination CV created from previous 5 people:', cv6, sep='\n')
