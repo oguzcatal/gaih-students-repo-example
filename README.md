@@ -6,7 +6,7 @@
 **Surname:** Çatal  
 **Email:** oguzcatal@gmail.com  
 
-This repository is for holding information about homeworks and project of Global AI Hub - "Introduction to Python Programming Course". Descriptions of the project is elaborated below.
+This repository is for holding information about homeworks and project of Global AI Hub - "Introduction to Python Programming Course". Descriptions of the project are elaborated below.
 
 ## Paying You!
 Description of your project.
