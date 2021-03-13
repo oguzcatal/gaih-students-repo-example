@@ -6,9 +6,9 @@
 **Surname:** Çatal  
 **Email:** oguzcatal@gmail.com  
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+This repository is for holding information about homeworks and project of Global AI Hub - "Introduction to Python Programming Course". Descriptions of the project is elaborated below.
 
-## Project Name
+## Paying You!
 Description of your project.
 
 ## Requirements
