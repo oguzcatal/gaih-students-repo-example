@@ -21,5 +21,5 @@ import random
 ---
 
 ### Certification
-![](img/TopLearnerCertificate.png)
+![](img/CompletionCertificate.png)
 
